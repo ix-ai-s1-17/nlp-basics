@@ -9,7 +9,7 @@ That way, you can just call them on all the requests individually and collect th
 ## Getting started
 
 1. Read in the data using the starter notebook.
-2. Each line in the file contains an individual request. Using SpaCy, parse each request *individually*, which is different from parsing the entire file like we did in class. You could start by breaking the requests into in a list, and parsing each element of the list.
+2. Each line in the file contains an individual request (`request_text_edit_aware`). Using SpaCy, parse each request *individually*, which is different from parsing the entire file like we did in class. You could start by breaking the requests into in a list, and parsing each element of the list.
 
 ## Initial insights
 
